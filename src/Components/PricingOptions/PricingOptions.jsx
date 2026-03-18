@@ -4,7 +4,7 @@ import DaisyuiPricing from '../daisyuiPricing/DaisyuiPricing';
 
 const PricingOptions = ({PricingPeomise}) => {
     const pricingData = use(PricingPeomise)
-    console.log(pricingData)
+    // console.log(pricingData)
     return (
         <div>
             <h1>Get our Membership</h1>
